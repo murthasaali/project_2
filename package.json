@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-fade-in": "^2.0.1",
+    "react-font": "^1.2.1",
+    "react-responsive-carousel": "^3.2.23"
+  }
+}
